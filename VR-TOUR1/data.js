@@ -156,7 +156,38 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "5-entrance-lobby-a",
+      "id": "5-ceo-office-view-f",
+      "name": "CEO Office View F",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-entrance-lobby-a",
       "name": "Entrance Lobby A",
       "levels": [
         {
@@ -187,7 +218,7 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "6-entrance-lobby-b",
+      "id": "7-entrance-lobby-b",
       "name": "Entrance Lobby B",
       "levels": [
         {
